@@ -1,4 +1,4 @@
-package com.embedding.ai;
+package com.embedding.ai.hotelmenu;
 
 import java.util.List;
 
